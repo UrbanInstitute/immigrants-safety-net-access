@@ -11,7 +11,7 @@ This repo powers the Urban Institute data tool “Supporting North Carolina’s 
 
 ### Hosting Location
 
-The production URL is https://apps.urban.org/features/safety-net-nc
+The production URL is https://apps.urban.org/features/immigrants-safety-net-access
 
 The above link (this app) is then iframed here: https://www.urban.org/projects/immigrants-safety-net-access
 
