@@ -38,7 +38,7 @@
           <span class="number"
             >{format(".1%")(d.perc_children_imm_parents)}</span
           >
-          of children in families with low incomes have one or more immigrant parent
+          of children in families with low incomes have one or more immigrant parents
           <span class="margin-error"
             >(±{format(".1%")(d.moe_children_imm_parents)})</span
           >
